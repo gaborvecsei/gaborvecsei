@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**gaborvecsei/gaborvecsei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me:
+    - [![Twitter][1.2] @gawesomebe][1]
+    - [![LinkedIn][2.2] @gaborvecsei][2]
+- ⚡ Fun fact(s):
+    - I love chocolate 🍫
+    
+<!-- Icons -->
 
-Here are some ideas to get you started:
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Images -->
+
+
+
+<!-- Links -->
+
+[1]: https://twitter.com/GAwesomeBE
+[2]: https://www.linkedin.com/in/gaborvecsei
